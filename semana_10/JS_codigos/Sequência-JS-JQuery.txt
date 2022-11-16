@@ -1,0 +1,59 @@
+DOM manipulation
+
+JavaScript Vanilla
+
+- Tutoriais: https://www.w3schools.com/js/js_htmldom_elements.asp
+- - https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model/Introduction
+- - https://www.hongkiat.com/blog/dom-manipulation-javascript-methods/
+- - https://plainjs.com/javascript/manipulation/
+
+- Dúvidas que podem surgir:
+- - https://www.reddit.com/r/learnjavascript/comments/356k1v/confused_on_queryselector_and_getelementbyid/
+- - https://jsperf.com/getelementbyid-vs-queryselector
+
+- Plugins JS Vanilla
+- - https://plainjs.com/javascript/plugins/
+
+JQuery
+
+- Iniciando
+- - https://www.w3schools.com/jquery/jquery_get_started.asp
+- - https://www.w3schools.com/jquery/jquery_dom_get.asp
+- - https://www.w3schools.com/jquery/jquery_dom_set.asp
+- - https://www.tutorialspoint.com/jquery/jquery-dom.htm
+
+Plugins JQuery
+- - https://speckyboy.com/free-jquery-plugins/
+- - https://www.creativebloq.com/jquery/top-jquery-plugins-6133175
+- - https://torquemag.io/2017/05/10-best-jquery-plugins-web-developers/
+
+
+
+
+Debugging
+- https://www.w3schools.com/js/js_debugging.asp
+
+
+
+
+HTTP Request
+JS vanilla
+- https://www.w3schools.com/xml/ajax_intro.asp
+- https://developer.mozilla.org/en-US/docs/Web/Guide/AJAX/Getting_Started
+- https://www.w3schools.com/xml/ajax_xmlhttprequest_create.asp
+
+JQuery
+- https://www.w3schools.com/jquery/jquery_ajax_get_post.asp
+- https://www.w3schools.com/jquery/ajax_get.asp
+- https://www.sitepoint.com/ajaxjquery-getjson-simple-example/
+
+
+Consumindo APIs
+JS vanilla
+- https://www.taniarascia.com/how-to-connect-to-an-api-with-javascript/
+
+
+JQuery
+- https://spring.io/guides/gs/consuming-rest-jquery/
+- http://www.lm-tech.it/Blog/post/2013/05/08/How-to-consume-a-RESTful-service-using-jQuery.aspx
+- https://www.codecademy.com/courses/javascript-beginner-en-EID4t/0/1?curriculum_id=5122e50456ef4d6c450008c1
